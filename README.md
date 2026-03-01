@@ -1,2 +1,11 @@
-# stack_implementation-
-Low level stack implementation in C. 
+# 📌 Stack implementation in C 
+
+# 📖 Overview 
+
+# 🧰 Build
+
+# 🧠 Concepts Practiced
+
+# ⚙️ Design Decisions
+
+# 🚀 Future Imprvements
