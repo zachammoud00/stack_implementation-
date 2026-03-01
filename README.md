@@ -1,4 +1,4 @@
-# 📌 Stack implementation in C 
+# 📌 Stack Implementation in C 
 
 # 📖 Overview 
 
